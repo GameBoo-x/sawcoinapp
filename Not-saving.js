@@ -10,5 +10,5 @@
         });
 
 function openMiningPage() {
-    window.location.href = 'mining.html';
+    window.location.href = './mining.html';
 }

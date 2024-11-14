@@ -255,7 +255,7 @@ img {
     position: absolute; /* تثبيت الحاوية في مكان محدد */
     bottom: 100px; /* ضبطه ليكون في الجزء السفلي */
     /*left: 25px;*/
-    width: 60%; 
+    width: 65%; 
     height: 42px; 
     margin: 5px;
     border-radius: 10px;

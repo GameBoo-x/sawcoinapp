@@ -258,7 +258,7 @@ img {
     width: 62%; 
     height: 40px; 
     margin: 5px;
-    border-radius: 25px;
+    border-radius: 15px;
     border: 1px solid #343434;
 }
 
@@ -292,7 +292,7 @@ img {
     font-size: 14px; /* حجم الخط */
     font-weight: bold; /* سمك الخط */
     text-align: left; /* المحاذاة لليسار */
-    margin-right: 5px;
+    margin-left: 5px;
     direction: rtl; /* الحفاظ على الاتجاه من اليمين لليسار */
     white-space: nowrap;
 }

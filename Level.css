@@ -111,6 +111,7 @@
     width: 100%;
     margin: 0;
     font-size: 15px;
+    top: 50%;
 } 
 
 .level-text p {

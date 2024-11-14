@@ -255,7 +255,7 @@ img {
     position: absolute; /* تثبيت الحاوية في مكان محدد */
     bottom: 100px; /* ضبطه ليكون في الجزء السفلي */
     /*left: 25px;*/
-    width: 60%; 
+    width: 62%; 
     height: 40px; 
     margin: 5px;
     border-radius: 25px;
@@ -289,7 +289,7 @@ img {
     background-clip: text;
     color: transparent;
     /*font-family: 'JetBrains Mono', monospace;*/
-    font-size: 15px; /* حجم الخط */
+    font-size: 14px; /* حجم الخط */
     font-weight: bold; /* سمك الخط */
     text-align: left; /* المحاذاة لليسار */
     margin-right: 5px;

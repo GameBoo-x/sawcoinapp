@@ -74,6 +74,19 @@ body {
 }
 
 
+/* منع تحديد النص */
+* {
+    user-select: none;
+    -webkit-user-select: none; /* لأجهزة iOS */
+    -ms-user-select: none; /* لمتصفحات إنترنت إكسبلورر */
+}
+
+/* منع سحب الصور */
+img {
+    pointer-events: none;
+}
+
+
 .line {
     position: relative;
     top: -20px; /* تعديل هذا الرقم لتحريك الخط لأعلى أو أسفل حسب الحاجة */
@@ -865,8 +878,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(1px);
     padding: 5px;
     border-radius: 10px;
     color: #fff;
@@ -931,18 +944,4 @@ body {
     width: 0;
     background-color: #fff;
     border-radius: 5px;
-}
-
-
-
-/* منع تحديد النص */
-* {
-    user-select: none;
-    -webkit-user-select: none; /* لأجهزة iOS */
-    -ms-user-select: none; /* لمتصفحات إنترنت إكسبلورر */
-}
-
-/* منع سحب الصور */
-img {
-    pointer-events: none;
 }

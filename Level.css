@@ -91,7 +91,7 @@
     border-radius: 10px;
     max-width: 400px;
     width: 90%;
-    height: 100px;
+    height: 50px;
    /* text-align: right;*/
     border: 1px solid #343434;
     /*position: relative;*/ /* لتحديد موضع العناصر داخل الحاوية */
@@ -106,8 +106,8 @@
 }
 
 .level10-image {
-    width: 20px; /* حجم ثابت للصورة */
-    height: 20px; /* حجم ثابت للصورة */
+    width: 28px; /* حجم ثابت للصورة */
+    height: 28px; /* حجم ثابت للصورة */
     object-fit: cover; /* لضمان تناسب الصورة مع الحاوية */
     flex-shrink: 0; /* لضمان عدم تقلص الصورة */
 } 
@@ -118,7 +118,7 @@
     width: 100%;
     margin: 0;
     font-size: 15px;
-    margin-top: 45px;
+    margin-top: 40px;
 } 
 
 .level-text p {

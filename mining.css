@@ -25,7 +25,7 @@
 
 .arrow-mining {
     font-size: 14px; /* تخصيص حجم السهم */
-    margin-left: 7px; /* المسافة بين السهم والمحتوى */
+    margin-left: 10px; /* المسافة بين السهم والمحتوى */
     color: #fff;
     opacity: 0.7;
 } 

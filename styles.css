@@ -255,8 +255,8 @@ img {
     position: absolute; /* تثبيت الحاوية في مكان محدد */
     bottom: 100px; /* ضبطه ليكون في الجزء السفلي */
     /*left: 25px;*/
-    width: 65%; 
-    height: 42px; 
+    width: 68%; 
+    height: 40px; 
     margin: 5px;
     border-radius: 10px;
     border: 1px solid #343434;
@@ -292,7 +292,7 @@ img {
     font-size: 15px; /* حجم الخط */
     font-weight: bold; /* سمك الخط */
     text-align: left; /* المحاذاة لليسار */
-    margin-right: 10px;
+    margin-right: 8px;
     direction: rtl; /* الحفاظ على الاتجاه من اليمين لليسار */
     white-space: nowrap;
 }

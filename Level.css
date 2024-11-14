@@ -3,7 +3,7 @@
     justify-content: center; /* تمركز الأزرار أفقيًا */
     align-items: center; /* تمركز الأزرار عموديًا */
     padding: 10px;
-    width: 88%;
+    width: 85%;
     height: 20px;
     gap: 10px; /* المسافة بين الأزرار */
     border-radius: 10px;
@@ -99,8 +99,8 @@
 
 
 .level-image {
-    width: 35px; /* حجم ثابت للصورة */
-    height: 35px; /* حجم ثابت للصورة */
+    width: 45px; /* حجم ثابت للصورة */
+    height: 45px; /* حجم ثابت للصورة */
     object-fit: cover; /* لضمان تناسب الصورة مع الحاوية */
     flex-shrink: 0; /* لضمان عدم تقلص الصورة */
 }
@@ -111,7 +111,7 @@
     width: 100%;
     margin: 0;
     font-size: 15px;
-    margin-top: 50px;
+    margin-top: 45px;
 } 
 
 .level-text p {
@@ -160,8 +160,8 @@
     left: 20px; /* المسافة التي تريد وضع الصورة بها خارج الحاوية */
     top: 50%; /* تمركز الصورة عموديًا داخل الحاوية */
     transform: translateY(-50%); /* تمركز الصورة بشكل صحيح */
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     overflow: hidden;
     background-color: rgba(255, 255, 255, 0.003); /* خلفية شفافة للدائرة */

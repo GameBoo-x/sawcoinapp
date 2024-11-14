@@ -105,13 +105,20 @@
     flex-shrink: 0; /* لضمان عدم تقلص الصورة */
 }
 
+.level10-image {
+    width: 20px; /* حجم ثابت للصورة */
+    height: 20px; /* حجم ثابت للصورة */
+    object-fit: cover; /* لضمان تناسب الصورة مع الحاوية */
+    flex-shrink: 0; /* لضمان عدم تقلص الصورة */
+} 
+
 .level-text {
     display: flex;
     justify-content: space-between;
     width: 100%;
     margin: 0;
     font-size: 15px;
-    margin-top: 40px;
+    margin-top: 45px;
 } 
 
 .level-text p {

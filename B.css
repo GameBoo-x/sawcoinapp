@@ -1,34 +1,9 @@
-/*.boos-icon {
-    width: 30px;
-    height: 30px;
-    flex-shrink: 0;
-    margin-left: 30px; 
+.separatorr {
+    width: 1px;
+    height: 20px;
+    background-color: #fff;
+    margin: 0 10px;
 }
-
-.boosts-button {
-    position: fixed;
-    bottom: 120px;
-    left: -35px; 
-    background-color: rgba(255, 255, 255, 0.05);
-    font-size: 16px;
-    border: 1px solid #343434;
-    font-weight: bold;
-    margin: 0;
-    padding: 3px 18px;
-    border-radius: 10px;
-    cursor: pointer;
-    z-index: 200;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: left 0.3s eas
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.boosts-button:hover {
-    left: 15px; 
-}*/
-
 
 .boos-icon {
     width: 23px;

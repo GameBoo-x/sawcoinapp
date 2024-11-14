@@ -8,3 +8,7 @@
             element.addEventListener("mousedown", e => e.preventDefault());
             element.addEventListener("touchstart", e => e.preventDefault());
         });
+
+function openMiningPage() {
+    window.location.href = 'mining.html';
+}

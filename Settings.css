@@ -142,6 +142,7 @@
     height: 150px;
     padding: 10px;
     line-height: 1.5; /* زيادة التباعد بين السطور */
+    margin-top: 30px;
 }
 
 .account-summary p {
